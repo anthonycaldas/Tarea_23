@@ -1,6 +1,8 @@
-
-
-
+/*
+Nombre:Caldas Anthony 
+Fecha:1/07/2024
+Tema:Verificiacion cedula
+*/
 
 #include <iostream>
 using namespace std;
